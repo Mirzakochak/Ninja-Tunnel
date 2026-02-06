@@ -24,7 +24,7 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Mirzakochak/Ninja-Tunnel/main/install.sh)
-
+```
 
 
 
