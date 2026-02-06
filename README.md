@@ -1,0 +1,42 @@
+# 🥷 Ninja Tunnel (تانل نینجا)
+
+### 🚀 The Ultimate High-Speed WireGuard Tunnel
+**اتصال امن، پایدار و موشکی بین دو سرور (مخصوص دور زدن محدودیت‌ها)**
+
+![WireGuard](https://img.shields.io/badge/WireGuard-Fast-red?style=for-the-badge&logo=wireguard)
+![Bash](https://img.shields.io/badge/Script-Bash-blue?style=for-the-badge&logo=gnu-bash)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
+
+---
+
+## ✨ ویژگی‌ها (Features)
+این اسکریپت فقط یک تانل ساده نیست؛ یک شاهکار مهندسی برای شرایط سخت شبکه است:
+
+* 🏎️ **فوق‌سریع (Ultra Fast):** فعال‌سازی خودکار الگوریتم **Google BBR** برای حداکثر سرعت.
+* 🛡️ **امنیت نینجایی:** انتقال ترافیک رمزنگاری شده با پروتکل WireGuard.
+* 🧠 **هوشمند (Smart MTU):** تنظیم دقیق MTU روی `1280` برای عبور از فیلترینگ و جلوگیری از افت سرعت.
+* 🔑 **سیستم کد-به-کد (Zero-Copy):** اتصال دو سرور فقط با یک "رمز مشترک" (Secret) بدون نیاز به کپی کردن فایل‌های طولانی.
+* 🔄 **پشتیبانی کامل:** امکان تانل کردن پورت‌های **TCP** و **UDP** به صورت همزمان.
+
+---
+
+## 📦 نصب و اجرا (Installation)
+
+فقط کافیست دستور زیر را در ترمینال **هر دو سرور** اجرا کنید:
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/Mirzakochak/Ninja-Tunnel/main/install.sh)
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+Made with ❤️ by Mirzakochak
+Don't forget to Star ⭐ this repository!
+</div>
