@@ -26,3 +26,7 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Mirzakochak/Ninja-Tunnel/main/install.sh)
+<div align="center">
+Made with ❤️ by Mirzakochak
+Don't forget to Star ⭐ this repository!
+</div>
