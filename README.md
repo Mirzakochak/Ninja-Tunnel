@@ -18,15 +18,20 @@
 * 🔑 **سیستم کد-به-کد (Zero-Copy):** اتصال دو سرور فقط با یک "رمز مشترک" (Secret) بدون نیاز به کپی کردن فایل‌های طولانی.
 * 🔄 **پشتیبانی کامل:** امکان تانل کردن پورت‌های **TCP** و **UDP** به صورت همزمان.
 
----
-
 ## 📦 نصب و اجرا (Installation)
 
 فقط کافیست دستور زیر را در ترمینال **هر دو سرور** اجرا کنید:
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Mirzakochak/Ninja-Tunnel/main/install.sh)
+
+
+
+
+
 <div align="center">
-Made with ❤️ by Mirzakochak
+​Made with ❤️ by Mirzakochak
+
+
 Don't forget to Star ⭐ this repository!
-</div>
+​</div>
